@@ -1,0 +1,5 @@
+/* 1. Bootstrap CSS */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* 2. Tailwind Import mit Präfix */
+@import "tailwindcss" prefix(tw);
